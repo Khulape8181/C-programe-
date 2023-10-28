@@ -5,7 +5,7 @@ int main(){
     
     int a = 9, b = 10;
     
-    // Code
+    
     if(a!=b)
     {
         printf("a is not equal to b");
