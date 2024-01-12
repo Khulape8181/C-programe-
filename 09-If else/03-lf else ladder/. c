@@ -1,1 +1,25 @@
+#include <stdio.h>
+int main() {
+    int b;
+    
+    printf("Enter the number: ");
+    scanf("%d", &b);
+   
+    if(b==10){
+        printf("The entered number is 10");   
+    }else if(b==20){
+        printf("The entered number is 20");    
+    }
+    else if(b==30){
+        printf("The entered number is 30");    
+    }
+    else if(b==40){
+        printf("The entered number is 40");    
+    }else {
+        printf("The entered number is not in range of 10 20 30 40 ");    
+    }
+    
+    return 0;
+}
+
 
