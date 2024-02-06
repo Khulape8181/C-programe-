@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-//variable declarations
+
 int i, j, k;
 //code
 printf("\n\n");
